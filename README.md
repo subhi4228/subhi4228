@@ -36,26 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhi4228&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhi4228&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhi4228&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/subhichaurasia24](http://www.linkedin.com/in/subhichaurasia24)
@@ -63,13 +43,6 @@
 
 ---
 
-## 🎯 Goals for 2026
-
-* Complete Web Development
-* Strengthen DSA skills
-* Build real-world projects
-* Contribute to Open Source
-* Improve Problem Solving
 
 ---
 
