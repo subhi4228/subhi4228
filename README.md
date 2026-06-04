@@ -38,7 +38,7 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: <a href="https://www.linkedin.com/in/subhichaurasia24">
+* LinkedIn: www.linkedin.com/in/subhichaurasia24
 * Email: [subhichaurasia24@gmail.com](mailto:subhichaurasia24@gmail.com)
 
 ---
