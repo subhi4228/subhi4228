@@ -39,8 +39,6 @@
 ## 📫 Connect With Me
 
 * LinkedIn: <a href="https://www.linkedin.com/in/subhichaurasia24">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 * Email: [subhichaurasia24@gmail.com](mailto:subhichaurasia24@gmail.com)
 
 ---
